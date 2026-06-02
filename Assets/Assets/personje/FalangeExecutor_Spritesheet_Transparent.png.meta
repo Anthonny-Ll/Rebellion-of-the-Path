@@ -1,0 +1,1737 @@
+fileFormatVersion: 2
+guid: b124391940eac4a45a06fa47869310ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6850712159648861121
+    second: FalangeExecutor_Spritesheet_Transparent_0
+  - first:
+      213: 7506376630609123975
+    second: FalangeExecutor_Spritesheet_Transparent_1
+  - first:
+      213: 7980670950596969046
+    second: FalangeExecutor_Spritesheet_Transparent_2
+  - first:
+      213: 7651334279039505832
+    second: FalangeExecutor_Spritesheet_Transparent_3
+  - first:
+      213: -1367803505840420148
+    second: FalangeExecutor_Spritesheet_Transparent_4
+  - first:
+      213: -6874136200743889052
+    second: FalangeExecutor_Spritesheet_Transparent_5
+  - first:
+      213: 8699945618091252759
+    second: FalangeExecutor_Spritesheet_Transparent_6
+  - first:
+      213: -8996981438880360168
+    second: FalangeExecutor_Spritesheet_Transparent_7
+  - first:
+      213: 1086224445799883431
+    second: FalangeExecutor_Spritesheet_Transparent_8
+  - first:
+      213: -5823980846860802395
+    second: FalangeExecutor_Spritesheet_Transparent_9
+  - first:
+      213: -5749335906761836293
+    second: FalangeExecutor_Spritesheet_Transparent_10
+  - first:
+      213: -3719109368350426200
+    second: FalangeExecutor_Spritesheet_Transparent_11
+  - first:
+      213: -899762424289389852
+    second: FalangeExecutor_Spritesheet_Transparent_12
+  - first:
+      213: -3302882191529836405
+    second: FalangeExecutor_Spritesheet_Transparent_13
+  - first:
+      213: -6819872480253197855
+    second: FalangeExecutor_Spritesheet_Transparent_14
+  - first:
+      213: 4167987214081648117
+    second: FalangeExecutor_Spritesheet_Transparent_15
+  - first:
+      213: 1908605886062208731
+    second: FalangeExecutor_Spritesheet_Transparent_16
+  - first:
+      213: -8851707758038810705
+    second: FalangeExecutor_Spritesheet_Transparent_17
+  - first:
+      213: 6276129100003899568
+    second: FalangeExecutor_Spritesheet_Transparent_18
+  - first:
+      213: -4466230924865947026
+    second: FalangeExecutor_Spritesheet_Transparent_19
+  - first:
+      213: 3936938311287996811
+    second: FalangeExecutor_Spritesheet_Transparent_20
+  - first:
+      213: -5221466994673471177
+    second: FalangeExecutor_Spritesheet_Transparent_21
+  - first:
+      213: -8636036060057550812
+    second: FalangeExecutor_Spritesheet_Transparent_22
+  - first:
+      213: -6807248641720564266
+    second: FalangeExecutor_Spritesheet_Transparent_23
+  - first:
+      213: -5658410581900259432
+    second: FalangeExecutor_Spritesheet_Transparent_24
+  - first:
+      213: 989760685211268916
+    second: FalangeExecutor_Spritesheet_Transparent_25
+  - first:
+      213: -1560357685987509547
+    second: FalangeExecutor_Spritesheet_Transparent_26
+  - first:
+      213: 5773307303863162287
+    second: FalangeExecutor_Spritesheet_Transparent_27
+  - first:
+      213: -8441508227561700198
+    second: FalangeExecutor_Spritesheet_Transparent_28
+  - first:
+      213: -7854206438691180068
+    second: FalangeExecutor_Spritesheet_Transparent_29
+  - first:
+      213: 6658136877058154402
+    second: FalangeExecutor_Spritesheet_Transparent_30
+  - first:
+      213: 7106925650748558776
+    second: FalangeExecutor_Spritesheet_Transparent_31
+  - first:
+      213: 4240194908350375207
+    second: FalangeExecutor_Spritesheet_Transparent_32
+  - first:
+      213: -4637595845539529339
+    second: FalangeExecutor_Spritesheet_Transparent_33
+  - first:
+      213: -7291767622155201478
+    second: FalangeExecutor_Spritesheet_Transparent_34
+  - first:
+      213: -824974093243769677
+    second: FalangeExecutor_Spritesheet_Transparent_35
+  - first:
+      213: 6105032908702354897
+    second: FalangeExecutor_Spritesheet_Transparent_36
+  - first:
+      213: -7153845747365930042
+    second: FalangeExecutor_Spritesheet_Transparent_37
+  - first:
+      213: 7631992402325597893
+    second: FalangeExecutor_Spritesheet_Transparent_38
+  - first:
+      213: 7487717429864557637
+    second: FalangeExecutor_Spritesheet_Transparent_39
+  - first:
+      213: 8405715326143307455
+    second: FalangeExecutor_Spritesheet_Transparent_40
+  - first:
+      213: 7625709980444411083
+    second: FalangeExecutor_Spritesheet_Transparent_41
+  - first:
+      213: -8283292374039780848
+    second: FalangeExecutor_Spritesheet_Transparent_42
+  - first:
+      213: -553785645373080274
+    second: FalangeExecutor_Spritesheet_Transparent_43
+  - first:
+      213: 5797856918923075477
+    second: FalangeExecutor_Spritesheet_Transparent_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f343ea166916de0a0800000000000000
+      internalID: -6850712159648861121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1792
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a10c966c10c2860800000000000000
+      internalID: 7506376630609123975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6528c9732f901ce60800000000000000
+      internalID: 7980670950596969046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1792
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a55beffcfffe2a60800000000000000
+      internalID: 7651334279039505832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca09d755f5940de0800000000000000
+      internalID: -1367803505840420148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1792
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467d101db892a90a0800000000000000
+      internalID: -6874136200743889052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1792
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c9b83027a6cb870800000000000000
+      internalID: 8699945618091252759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1792
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819d0c4ac0d442380800000000000000
+      internalID: -8996981438880360168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a26f3ed06b031f00800000000000000
+      internalID: 1086224445799883431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6ee2cc6401d2fa0800000000000000
+      internalID: -5823980846860802395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8ff0f34714630b0800000000000000
+      internalID: -5749335906761836293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1536
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab35a2fbb1136cc0800000000000000
+      internalID: -3719109368350426200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e29cfd97d66383f0800000000000000
+      internalID: -899762424289389852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1536
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8086ee652ec922d0800000000000000
+      internalID: -3302882191529836405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_14
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1536
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1cb09cc12fa51a0800000000000000
+      internalID: -6819872480253197855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_15
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1536
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5e4bbc94aa7d930800000000000000
+      internalID: 4167987214081648117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd625fee0fabc7a10800000000000000
+      internalID: 1908605886062208731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faff68241ba682580800000000000000
+      internalID: -8851707758038810705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b879320a2a491750800000000000000
+      internalID: 6276129100003899568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1280
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a308e03a2c402c0800000000000000
+      internalID: -4466230924865947026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8182fa0980d2a630800000000000000
+      internalID: 3936938311287996811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731bf00de6f9987b0800000000000000
+      internalID: -5221466994673471177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_22
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1280
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4204ec485f2a62880800000000000000
+      internalID: -8636036060057550812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_23
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1280
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d54c7c3d6bc781a0800000000000000
+      internalID: -6807248641720564266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f06882e894971b0800000000000000
+      internalID: -5658410581900259432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4373aa669165cbd00800000000000000
+      internalID: 989760685211268916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daf924a3fe785ae0800000000000000
+      internalID: -1560357685987509547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa59ee19768ee1050800000000000000
+      internalID: 5773307303863162287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94c5a7fdfcb9da80800000000000000
+      internalID: -8441508227561700198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_29
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1f93d7bd0400390800000000000000
+      internalID: -7854206438691180068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_30
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afdafe9634766c50800000000000000
+      internalID: 6658136877058154402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_31
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1024
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdcaf9a93fd0a260800000000000000
+      internalID: 7106925650748558776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725e4aabdc238da30800000000000000
+      internalID: 4240194908350375207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58df9c64623f3afb0800000000000000
+      internalID: -4637595845539529339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a349eb82bff6eca90800000000000000
+      internalID: -7291767622155201478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc1e4fde6a1d84f0800000000000000
+      internalID: -824974093243769677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd0649a51f69b450800000000000000
+      internalID: 6105032908702354897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb905a023f68bc90800000000000000
+      internalID: -7153845747365930042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cee81567a84ae960800000000000000
+      internalID: 7631992402325597893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_39
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 768
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ce391b457b9e760800000000000000
+      internalID: 7487717429864557637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe14d1cd8917a470800000000000000
+      internalID: 8405715326143307455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc44a8013d6f3d960800000000000000
+      internalID: 7625709980444411083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01228aaf875db0d80800000000000000
+      internalID: -8283292374039780848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2db3ddb3ee8058f0800000000000000
+      internalID: -553785645373080274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f53fe3620267050800000000000000
+      internalID: 5797856918923075477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_45
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 512
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146a7e1c7b4fc7b4fa2891602a7ea222
+      internalID: 168849371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_46
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d343d92865995c14cb7ac6a6abdfdbdc
+      internalID: -1019609463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_47
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 512
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82df33a2d275d63429321510200d4c8b
+      internalID: -1563862315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934d2756846c1df4e8217ff9a590ea13
+      internalID: 614753857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b7278c8ec32bc4e8738e3b02e36a0d
+      internalID: 666009331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562317336b32ed745ae5b3e324e5a43d
+      internalID: -462562828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b4ba1555f440f488c86a8f656d0913
+      internalID: -348308961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f215c54f453d06142827c1b8066d3216
+      internalID: 2033808981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_53
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 256
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2666b16f8de8d5409fe84b502b74408
+      internalID: -1630916528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_54
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b18d229ddce5d44dba1751b7e06ffcc
+      internalID: 917254549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_55
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 256
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b328d985746b764baf26389de983558
+      internalID: 1035475539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06b5c72c1b388b499df88fe981c00fb
+      internalID: -1853878452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6505a794769194596f460d6e2a83e9
+      internalID: -1227751193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037e4af2459df9746a645b8e8fde7c6b
+      internalID: 1616215090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_59
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e900d2e8f894d554aa8c24ecf5afdd55
+      internalID: 272243596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_60
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f7648ad6ff9814a8d34aa4e73339fa
+      internalID: 1317533028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_61
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1d6f00552409e4f8642ba637a85412
+      internalID: -999775115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_62
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5898d510db1df2844af50d05708c7b2b
+      internalID: -1234711473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FalangeExecutor_Spritesheet_Transparent_63
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 192
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a275455b9c12448bc714cf7fd92611
+      internalID: -1611722466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: db5312a5155f9634b8c752a697f2e4c0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FalangeExecutor_Spritesheet_Transparent_0: -6850712159648861121
+      FalangeExecutor_Spritesheet_Transparent_1: 7506376630609123975
+      FalangeExecutor_Spritesheet_Transparent_10: -5749335906761836293
+      FalangeExecutor_Spritesheet_Transparent_11: -3719109368350426200
+      FalangeExecutor_Spritesheet_Transparent_12: -899762424289389852
+      FalangeExecutor_Spritesheet_Transparent_13: -3302882191529836405
+      FalangeExecutor_Spritesheet_Transparent_14: -6819872480253197855
+      FalangeExecutor_Spritesheet_Transparent_15: 4167987214081648117
+      FalangeExecutor_Spritesheet_Transparent_16: 1908605886062208731
+      FalangeExecutor_Spritesheet_Transparent_17: -8851707758038810705
+      FalangeExecutor_Spritesheet_Transparent_18: 6276129100003899568
+      FalangeExecutor_Spritesheet_Transparent_19: -4466230924865947026
+      FalangeExecutor_Spritesheet_Transparent_2: 7980670950596969046
+      FalangeExecutor_Spritesheet_Transparent_20: 3936938311287996811
+      FalangeExecutor_Spritesheet_Transparent_21: -5221466994673471177
+      FalangeExecutor_Spritesheet_Transparent_22: -8636036060057550812
+      FalangeExecutor_Spritesheet_Transparent_23: -6807248641720564266
+      FalangeExecutor_Spritesheet_Transparent_24: -5658410581900259432
+      FalangeExecutor_Spritesheet_Transparent_25: 989760685211268916
+      FalangeExecutor_Spritesheet_Transparent_26: -1560357685987509547
+      FalangeExecutor_Spritesheet_Transparent_27: 5773307303863162287
+      FalangeExecutor_Spritesheet_Transparent_28: -8441508227561700198
+      FalangeExecutor_Spritesheet_Transparent_29: -7854206438691180068
+      FalangeExecutor_Spritesheet_Transparent_3: 7651334279039505832
+      FalangeExecutor_Spritesheet_Transparent_30: 6658136877058154402
+      FalangeExecutor_Spritesheet_Transparent_31: 7106925650748558776
+      FalangeExecutor_Spritesheet_Transparent_32: 4240194908350375207
+      FalangeExecutor_Spritesheet_Transparent_33: -4637595845539529339
+      FalangeExecutor_Spritesheet_Transparent_34: -7291767622155201478
+      FalangeExecutor_Spritesheet_Transparent_35: -824974093243769677
+      FalangeExecutor_Spritesheet_Transparent_36: 6105032908702354897
+      FalangeExecutor_Spritesheet_Transparent_37: -7153845747365930042
+      FalangeExecutor_Spritesheet_Transparent_38: 7631992402325597893
+      FalangeExecutor_Spritesheet_Transparent_39: 7487717429864557637
+      FalangeExecutor_Spritesheet_Transparent_4: -1367803505840420148
+      FalangeExecutor_Spritesheet_Transparent_40: 8405715326143307455
+      FalangeExecutor_Spritesheet_Transparent_41: 7625709980444411083
+      FalangeExecutor_Spritesheet_Transparent_42: -8283292374039780848
+      FalangeExecutor_Spritesheet_Transparent_43: -553785645373080274
+      FalangeExecutor_Spritesheet_Transparent_44: 5797856918923075477
+      FalangeExecutor_Spritesheet_Transparent_45: 168849371
+      FalangeExecutor_Spritesheet_Transparent_46: -1019609463
+      FalangeExecutor_Spritesheet_Transparent_47: -1563862315
+      FalangeExecutor_Spritesheet_Transparent_48: 614753857
+      FalangeExecutor_Spritesheet_Transparent_49: 666009331
+      FalangeExecutor_Spritesheet_Transparent_5: -6874136200743889052
+      FalangeExecutor_Spritesheet_Transparent_50: -462562828
+      FalangeExecutor_Spritesheet_Transparent_51: -348308961
+      FalangeExecutor_Spritesheet_Transparent_52: 2033808981
+      FalangeExecutor_Spritesheet_Transparent_53: -1630916528
+      FalangeExecutor_Spritesheet_Transparent_54: 917254549
+      FalangeExecutor_Spritesheet_Transparent_55: 1035475539
+      FalangeExecutor_Spritesheet_Transparent_56: -1853878452
+      FalangeExecutor_Spritesheet_Transparent_57: -1227751193
+      FalangeExecutor_Spritesheet_Transparent_58: 1616215090
+      FalangeExecutor_Spritesheet_Transparent_59: 272243596
+      FalangeExecutor_Spritesheet_Transparent_6: 8699945618091252759
+      FalangeExecutor_Spritesheet_Transparent_60: 1317533028
+      FalangeExecutor_Spritesheet_Transparent_61: -999775115
+      FalangeExecutor_Spritesheet_Transparent_62: -1234711473
+      FalangeExecutor_Spritesheet_Transparent_63: -1611722466
+      FalangeExecutor_Spritesheet_Transparent_7: -8996981438880360168
+      FalangeExecutor_Spritesheet_Transparent_8: 1086224445799883431
+      FalangeExecutor_Spritesheet_Transparent_9: -5823980846860802395
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

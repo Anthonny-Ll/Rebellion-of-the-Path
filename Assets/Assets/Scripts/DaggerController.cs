@@ -13,8 +13,8 @@ public class DaggerController : MonoBehaviour
     [Header("Energy")]
     public float maxEnergy = 100f;
     public float energyCostPerThrow = 30f;
+    public float currentEnergy; // ← público para UIAutoSetup
 
-    private float currentEnergy;
     private bool daggerInFlight;
     private GameObject activeDagger;
     private Animator anim;
@@ -27,7 +27,6 @@ public class DaggerController : MonoBehaviour
 
     private void Update()
     {
-        // Click izquierdo: lanzar o teletransportarse
         if (Input.GetButtonDown("Fire1"))
         {
             if (!daggerInFlight && currentEnergy >= energyCostPerThrow)
@@ -36,7 +35,6 @@ public class DaggerController : MonoBehaviour
                 Translocate();
         }
 
-        // Click derecho: cancelar daga
         if (Input.GetButtonDown("Fire2") && daggerInFlight)
             CancelDagger();
     }
@@ -52,11 +50,9 @@ public class DaggerController : MonoBehaviour
         daggerRb.linearVelocity = direction * daggerSpeed;
         daggerRb.gravityScale = 0.5f;
 
-        // Calcular rotación hacia dirección
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
         activeDagger.transform.rotation = Quaternion.Euler(0, 0, angle);
 
-        // Notificar a la daga quién la lanzó
         activeDagger.GetComponent<Dagger>()?.SetOwner(this);
 
         currentEnergy -= energyCostPerThrow;
@@ -72,14 +68,12 @@ public class DaggerController : MonoBehaviour
             return;
         }
 
-        // Efectos visuales
         if (blinkVFXPrefab)
         {
             Instantiate(blinkVFXPrefab, transform.position, Quaternion.identity);
             Instantiate(blinkVFXPrefab, activeDagger.transform.position, Quaternion.identity);
         }
 
-        // Teletransportarse
         transform.position = activeDagger.transform.position;
         Destroy(activeDagger);
         daggerInFlight = false;
@@ -99,7 +93,6 @@ public class DaggerController : MonoBehaviour
         return (mousePos - transform.position).normalized;
     }
 
-    // Callbacks desde DaggerController
     public void OnDaggerStuck()
     {
         if (!activeDagger) return;
@@ -114,7 +107,6 @@ public class DaggerController : MonoBehaviour
         activeDagger = null;
     }
 
-    // Regeneración de energía (llamado desde SwordController)
     public void RegenEnergy(float amount)
     {
         currentEnergy = Mathf.Min(currentEnergy + amount, maxEnergy);

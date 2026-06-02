@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: 2d6ed7cd606bf7d4fb63db6e85d36664
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4106323576704187736
+    second: Kael_Spritesheet_0
+  - first:
+      213: -784295075239906394
+    second: Kael_Spritesheet_1
+  - first:
+      213: -8025415773791341288
+    second: Kael_Spritesheet_2
+  - first:
+      213: 8454212473541397920
+    second: Kael_Spritesheet_3
+  - first:
+      213: -3532807336083682647
+    second: Kael_Spritesheet_4
+  - first:
+      213: -238664079539042581
+    second: Kael_Spritesheet_5
+  - first:
+      213: -3279655106145578773
+    second: Kael_Spritesheet_6
+  - first:
+      213: 5949623550880555582
+    second: Kael_Spritesheet_7
+  - first:
+      213: 3738128651458130603
+    second: Kael_Spritesheet_8
+  - first:
+      213: -983893608617969043
+    second: Kael_Spritesheet_9
+  - first:
+      213: -7728529204002296747
+    second: Kael_Spritesheet_10
+  - first:
+      213: -2448436174903745057
+    second: Kael_Spritesheet_11
+  - first:
+      213: 8642058520694369146
+    second: Kael_Spritesheet_12
+  - first:
+      213: 5974191194417550101
+    second: Kael_Spritesheet_13
+  - first:
+      213: -3021664699350853825
+    second: Kael_Spritesheet_14
+  - first:
+      213: 8056098279112091579
+    second: Kael_Spritesheet_15
+  - first:
+      213: -1238863859194358969
+    second: Kael_Spritesheet_16
+  - first:
+      213: -8760290818841003852
+    second: Kael_Spritesheet_17
+  - first:
+      213: 5694803028712614712
+    second: Kael_Spritesheet_18
+  - first:
+      213: -1687136358455169450
+    second: Kael_Spritesheet_19
+  - first:
+      213: 3201520010941402899
+    second: Kael_Spritesheet_20
+  - first:
+      213: 3936589282520862979
+    second: Kael_Spritesheet_21
+  - first:
+      213: -4755371569411766713
+    second: Kael_Spritesheet_22
+  - first:
+      213: 7223492707500518746
+    second: Kael_Spritesheet_23
+  - first:
+      213: 7728752732125204741
+    second: Kael_Spritesheet_24
+  - first:
+      213: 5505936747803153285
+    second: Kael_Spritesheet_25
+  - first:
+      213: -7394056038340216249
+    second: Kael_Spritesheet_26
+  - first:
+      213: 1615660278092899001
+    second: Kael_Spritesheet_27
+  - first:
+      213: 3813658469679437164
+    second: Kael_Spritesheet_28
+  - first:
+      213: -1393628457221150605
+    second: Kael_Spritesheet_29
+  - first:
+      213: 61980224405333428
+    second: Kael_Spritesheet_30
+  - first:
+      213: 1627368572593545206
+    second: Kael_Spritesheet_31
+  - first:
+      213: -5035397608655270901
+    second: Kael_Spritesheet_32
+  - first:
+      213: 3372882943801951185
+    second: Kael_Spritesheet_33
+  - first:
+      213: -4121631386537065634
+    second: Kael_Spritesheet_34
+  - first:
+      213: -3482740609995843682
+    second: Kael_Spritesheet_35
+  - first:
+      213: 6094617153437178288
+    second: Kael_Spritesheet_36
+  - first:
+      213: -4183523362426883755
+    second: Kael_Spritesheet_37
+  - first:
+      213: -2182942261793504570
+    second: Kael_Spritesheet_38
+  - first:
+      213: -3956705052613826411
+    second: Kael_Spritesheet_39
+  - first:
+      213: -1008539114529881822
+    second: Kael_Spritesheet_40
+  - first:
+      213: 2005365727730593474
+    second: Kael_Spritesheet_41
+  - first:
+      213: -8172846046392432975
+    second: Kael_Spritesheet_42
+  - first:
+      213: 8276779914811143082
+    second: Kael_Spritesheet_43
+  - first:
+      213: 8020904895845283377
+    second: Kael_Spritesheet_44
+  - first:
+      213: 4965533911905114179
+    second: Kael_Spritesheet_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kael__0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1698
+        width: 108
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07670e800a89c234991fb1025d4c9aab
+      internalID: 1392538592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1695
+        width: 108
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bb0abb940df054c91f2df4020ae314
+      internalID: 1949055566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1692
+        width: 108
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60f6c87187874f4a9026f45c7cf7d9b
+      internalID: -1641051424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__3
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1695
+        width: 108
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c794f41c63364b4b8daed01bcfef2fd
+      internalID: 1910469248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__4
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1457
+        width: 106
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795fa16663849204aadd938969e792aa
+      internalID: -1806624735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1463
+        width: 108
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3463667035d6c742ad999567008c279
+      internalID: -1233597999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1467
+        width: 108
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392834bed98bf1946bacf982af23c2ca
+      internalID: 682809662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__7
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1463
+        width: 126
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f83ddfa5199e6f4698e2a6add6071c2
+      internalID: 282259981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__8
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1460
+        width: 118
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355ccb0dffe6a6c4abf88a97b7521fb2
+      internalID: 752103825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__9
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1458
+        width: 108
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546f09b865a88bc4099bec82c6c19de9
+      internalID: 490864339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1202
+        width: 122
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daba7da34e38e704282f398ff8fe2767
+      internalID: 2147301184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1229
+        width: 106
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191577f25af5c294280d8437dee0770a
+      internalID: -567129025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__12
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1224
+        width: 103
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52960e2f01da44341aec2330f472549c
+      internalID: -268079453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__13
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1211
+        width: 118
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a86bc7076f88540b910fcc965a5acb
+      internalID: -410666887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 978
+        width: 116
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38fd69c2e024c84ca4d4a039e868d5f
+      internalID: 1353332625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__15
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 984
+        width: 105
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757e83eeadfc2a044a8c2bf812e934b9
+      internalID: 913023268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__16
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1089
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a3c5d7689a4434bb96ddd0f90b5d5f
+      internalID: 638874115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 981
+        width: 150
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826ecd85096fee347a74f1a9daf0af5d
+      internalID: -1946718786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__18
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 978
+        width: 108
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb00051df1a906449d8c79c92bde46b
+      internalID: 1587001898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 738
+        width: 108
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74230b528afda4f4689e4a327217fdb2
+      internalID: 1508429434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 192
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5298110feecf8764aa3f1cbf57ddb6a8
+      internalID: -1472930912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__21
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 848
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd267a79e65461478005be23911400a
+      internalID: -1187152869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 738
+        width: 134
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e137363f32b94124a8aead0c99d1bc0f
+      internalID: -777136778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 192
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f0f166ba910804ab7180ec8911944d
+      internalID: 1942752331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__24
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 822
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc796905cda492648bc7b5e654c206e9
+      internalID: -1839789910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 498
+        width: 105
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489bfd2c2a1e0df4fb30e948d7dd10a0
+      internalID: -1093325872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__26
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 503
+        width: 116
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27240d117865d6f44ae60777ea23224f
+      internalID: 1995936839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__27
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 675
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d583aeeb47e534ba9bb9f6bba5e9ea
+      internalID: -866972520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__28
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 501
+        width: 141
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a47bf3afd06a44983d5b88b6f86592
+      internalID: -554692986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__29
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 503
+        width: 114
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c493f0e2d0fd94da69b0d8767db6a8
+      internalID: 2102883825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__30
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 498
+        width: 108
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6511b891d0189164280c7c57e2a735f2
+      internalID: -103901409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 661
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0169afb80f9008841a3bb94439cb621f
+      internalID: 186437662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__32
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 647
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c5ad79702599f4d9a62255ed5fa159
+      internalID: -1233513870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__33
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 632
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d278db972e3dee442a7c6be5ea16afc7
+      internalID: 173783943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__34
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 617
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787a82302671e3b42b3bb9ea0d71ff50
+      internalID: -1081944389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__35
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 619
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b238e7c6138bd644aee6aa7a99e372d
+      internalID: 196382413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__36
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 602
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ec4f6079af3fc4cbc9465976502d72
+      internalID: 1907263535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__37
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 605
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903a3eafcf3dac740a207cfe31d3ca48
+      internalID: -1154524990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__38
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 593
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2503884a7db92014b8c14fcdd4783996
+      internalID: 1280864999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__39
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 590
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4c3242d64cfbb4fa07ca7a3b5dd113
+      internalID: -682250289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__40
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 575
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2601712d6d1e74044a382322ddfb4901
+      internalID: -2131331227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__41
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 560
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a03bd23867983948a5163e9f8062d05
+      internalID: -1978779328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 384
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43357fff24f4c64da466ee8f4176cfe
+      internalID: -345570661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 122
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0a131fcaaf8f84e8bb292f2bf29995
+      internalID: -1163416013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__44
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 132
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d502deb76e3c451459c89fdb7c9bb08a
+      internalID: 750534985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kael__45
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 134
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb84599a123ecc4393d5184f49685af
+      internalID: -2112883956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f0abd81c556007c46ac929d3848504d3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kael__0: 1392538592
+      Kael__1: 1949055566
+      Kael__10: 2147301184
+      Kael__11: -567129025
+      Kael__12: -268079453
+      Kael__13: -410666887
+      Kael__14: 1353332625
+      Kael__15: 913023268
+      Kael__16: 638874115
+      Kael__17: -1946718786
+      Kael__18: 1587001898
+      Kael__19: 1508429434
+      Kael__2: -1641051424
+      Kael__20: -1472930912
+      Kael__21: -1187152869
+      Kael__22: -777136778
+      Kael__23: 1942752331
+      Kael__24: -1839789910
+      Kael__25: -1093325872
+      Kael__26: 1995936839
+      Kael__27: -866972520
+      Kael__28: -554692986
+      Kael__29: 2102883825
+      Kael__3: 1910469248
+      Kael__30: -103901409
+      Kael__31: 186437662
+      Kael__32: -1233513870
+      Kael__33: 173783943
+      Kael__34: -1081944389
+      Kael__35: 196382413
+      Kael__36: 1907263535
+      Kael__37: -1154524990
+      Kael__38: 1280864999
+      Kael__39: -682250289
+      Kael__4: -1806624735
+      Kael__40: -2131331227
+      Kael__41: -1978779328
+      Kael__42: -345570661
+      Kael__43: -1163416013
+      Kael__44: 750534985
+      Kael__45: -2112883956
+      Kael__5: -1233597999
+      Kael__6: 682809662
+      Kael__7: 282259981
+      Kael__8: 752103825
+      Kael__9: 490864339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

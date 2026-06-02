@@ -16,13 +16,14 @@ public class PlayerController : MonoBehaviour
 
     [Header("Health")]
     public int maxHealth = 100;
+    public int currentHealth;
 
     private Rigidbody2D rb;
     private Animator anim;
     private bool facingRight = true;
-    private int currentHealth;
     private int jumpsLeft;
     private bool isDead;
+    private float horizontalInput;
 
     private void Start()
     {
@@ -37,28 +38,22 @@ public class PlayerController : MonoBehaviour
         if (isDead) return;
 
         float horizontal = Input.GetAxisRaw("Horizontal");
-        bool isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        bool isGrounded = Physics2D.OverlapCircle(
+            groundCheck.position, groundCheckRadius, groundLayer);
 
-        if (isGrounded)
-            jumpsLeft = maxJumps;
+        if (isGrounded) jumpsLeft = maxJumps;
 
-        // Doble salto
         if (Input.GetButtonDown("Jump") && jumpsLeft > 0)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             jumpsLeft--;
         }
 
-        // Auto flip sprite
         if ((horizontal > 0 && !facingRight) || (horizontal < 0 && facingRight))
             Flip();
 
-        // Animator parameters
         anim.SetFloat("Speed", Mathf.Abs(horizontal));
         anim.SetBool("IsGrounded", isGrounded);
-        anim.SetFloat("VelocityY", rb.linearVelocity.y);
-
-        // Aplicar movimiento en FixedUpdate
         horizontalInput = horizontal;
     }
 
@@ -83,15 +78,18 @@ public class PlayerController : MonoBehaviour
         Gizmos.DrawWireSphere(groundCheck.position, groundCheckRadius);
     }
 
-    // Eventos públicos
     public void TakeDamage(int damage)
     {
         if (isDead) return;
         currentHealth -= damage;
         anim.SetTrigger("Hit");
 
-        if (currentHealth <= 0)
-            Die();
+        // ── Screen shake al recibir daño ──
+        CameraShake.Instance?.Shake(0.25f, 0.2f);
+
+        FindFirstObjectByType<UIAutoSetup>()?.OnPlayerHurt();
+
+        if (currentHealth <= 0) Die();
     }
 
     private void Die()
@@ -99,6 +97,11 @@ public class PlayerController : MonoBehaviour
         isDead = true;
         anim.SetTrigger("Die");
         GetComponent<Collider2D>().enabled = false;
+
+        // ── Screen shake fuerte al morir ──
+        CameraShake.Instance?.Shake(0.4f, 0.35f);
+
+        GameManager.Instance?.TriggerGameOver();
         Invoke(nameof(Reload), 2f);
     }
 
@@ -107,6 +110,4 @@ public class PlayerController : MonoBehaviour
         UnityEngine.SceneManagement.SceneManager.LoadScene(
             UnityEngine.SceneManagement.SceneManager.GetActiveScene().buildIndex);
     }
-
-    private float horizontalInput;
 }
